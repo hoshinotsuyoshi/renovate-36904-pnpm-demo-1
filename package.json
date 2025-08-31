@@ -34,7 +34,6 @@
     "lint:turbo": "turbo lint",
     "prebuild": "pnpm create-env-files",
     "prelint": "pnpm create-env-files",
-    "prepare": "lefthook install",
     "release": "pnpm build --filter @liam-hq/cli && pnpm changeset publish",
     "test": "turbo test",
     "test:coverage": "vitest --coverage",
