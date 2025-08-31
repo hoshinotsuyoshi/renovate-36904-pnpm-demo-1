@@ -1,5 +1,0 @@
-packages:
-  - "frontend/apps/*"
-  - "frontend/packages/*"
-  - "frontend/packages/__mocks__/*"
-  - "frontend/internal-packages/*"
