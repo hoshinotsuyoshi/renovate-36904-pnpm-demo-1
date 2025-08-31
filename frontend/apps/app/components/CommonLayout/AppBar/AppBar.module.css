@@ -1,0 +1,10 @@
+.breadcrumbs {
+  display: flex;
+  align-items: center;
+  gap: var(--spacing-2);
+}
+
+.chevronRight {
+  flex-shrink: 0;
+  color: var(--global-muted-foreground);
+}
