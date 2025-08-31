@@ -1,5 +1,0 @@
-export { getColumnCommentChangeStatus } from './getColumnCommentChangeStatus.js'
-export { getColumnDefaultChangeStatus } from './getColumnDefaultChangeStatus.js'
-export { getColumnNotNullChangeStatus } from './getColumnNotNullChangeStatus.js'
-export { getColumnRelatedChangeStatus } from './getColumnRelatedChangeStatus.js'
-export { getColumnTypeChangeStatus } from './getColumnTypeChangeStatus.js'

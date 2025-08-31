@@ -1,5 +1,0 @@
-export { getIndexColumnsChangeStatus } from './getIndexColumnsChangeStatus.js'
-export { getIndexNameChangeStatus } from './getIndexNameChangeStatus.js'
-export { getIndexRelatedChangeStatus } from './getIndexRelatedChangeStatus.js'
-export { getIndexTypeChangeStatus } from './getIndexTypeChangeStatus.js'
-export { getIndexUniqueChangeStatus } from './getIndexUniqueChangeStatus.js'
